@@ -1,4 +1,4 @@
 <?php
 
-echo 'good';
+echo 'food';
 ?>
